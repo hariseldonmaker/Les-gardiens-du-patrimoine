@@ -25,7 +25,7 @@
        <p> 
       </p>
       <a>
-        <img src="Logo Les gardiens.PNG" alt="Une image cliquable">
+        <img src="https://img.icons8.com/ios/452/castle.png" alt="Une image cliquable">
       </a>
     </main>
     <p>
